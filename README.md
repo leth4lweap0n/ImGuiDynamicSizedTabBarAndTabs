@@ -13,7 +13,7 @@
 
 ### Usage
 1. Include the necessary headers and link against ImGui.
-2. Create an instance of `ImGuiDynamicSizedTabs` with the desired tab names.
+2. Create an instance of `ImGuiDynamicSizedTabBarAndTabs` with the desired tab names.
 3. Call the `Render()` method to display the tabs.
 4. Use `RenderActiveTabContent()` to display the content of the active tab.
 
