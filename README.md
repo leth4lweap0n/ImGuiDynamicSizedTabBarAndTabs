@@ -18,10 +18,10 @@
 4. Use `RenderActiveTabContent()` to display the content of the active tab.
 
 ### Example
-- Entry.cpp
+- [Entry.cpp](Entry.cpp)
 
 ## Screenshot
-![](Screenshots/screenshot.gif)
+<img src="Screenshots/screenshot.gif" alt="Screenshot" width="800"/>
 
 ## Acknowledgments
 Special thanks to [ImGui](https://github.com/ocornut/imgui) for their amazing work on the graphical user interface library.
